@@ -10,6 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="994944b4-9d4e-4013-ae1e-473fd664225e" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/quizz_war.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/artifacts/quizz_war_exploded.xml" afterDir="false" />
@@ -42,6 +43,9 @@
       <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/assets/style/general.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 6c1591f (initial commit)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +80,10 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Projets/J2EE-BusinessCase-PiCom",
     "list.type.of.created.stylesheet": "CSS",
+<<<<<<< HEAD
+=======
+    "nodejs_package_manager_path": "npm",
+>>>>>>> 6c1591f (initial commit)
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -129,7 +137,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653583275426</updated>
+<<<<<<< HEAD
       <workItem from="1653583277063" duration="9249000" />
+=======
+      <workItem from="1653583277063" duration="9943000" />
+>>>>>>> 6c1591f (initial commit)
     </task>
     <servers />
   </component>
